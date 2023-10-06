@@ -1,5 +1,8 @@
 # Create Invoice («FI-Buchung anlegen»)
 
+Link to INTEGRA master repository  
+[INTEGRA](https://github.com/Integra-SUPERB/INTEGRA)
+
 ## Goal of this repository
 
 The primary purpose of an FI-CA (Financial Accounting – Contract Accounting) repository as an API within SAP is to enhance the interaction with contract accounting functionalities. This repository allows for the integration and automation of processes, such as billing and payments, making these features accessible to various systems through standardization.
